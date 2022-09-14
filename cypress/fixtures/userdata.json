@@ -1,0 +1,22 @@
+{
+    "invaliduser": {
+        "email": "invaliduser@gmail.com",
+        "username": "Invalid Tester",
+        "password": "test@123"
+    },
+    "simpleuser": {
+        "email": "simpleuser@gmail.com",
+        "username": "Simple Tester",
+        "password": "Mobile@1"
+    },
+    "testuser": {
+        "email": "testuser01@gmail.com",
+        "username": "Test User",
+        "password": "Mobile@1"
+    },
+    "automationuser": {
+        "email": "cypressautomationtester007@gmail.com",
+        "username": "Automation Tester",
+        "password": "Mobile@1"
+    }
+}
